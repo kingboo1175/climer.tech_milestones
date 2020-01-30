@@ -1,0 +1,40 @@
+body {
+background-color: aqua ;
+text-align: center;
+}
+
+h1 {
+color: whitesmoke;
+text-align: center;
+}
+
+p {
+font-style: normal;
+font-size: 20px;
+}
+
+h2 {
+color: tomato;
+font-size: x-large;
+}
+
+h3 {
+color: violet;
+font-size: xx-large;
+}
+
+h4 {
+    color: brown;
+    font-size: xx-large;
+}
+
+h5 {
+    color: cornflowerblue;
+    font-size: xx-large;
+}
+
+h6 {
+    color: crimson;
+    font-size: xx-large;
+}
+
